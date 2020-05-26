@@ -1,21 +1,23 @@
 
 
 
+
                      REDES Y SISTEMAS DISTRIBUIDOS
 
 
 ==========================================================================
-Plantilla para la programación de un servidor FTP
+Code template for the socket programming assignment: Simple FTP server
 ==========================================================================
 
 Hecho por Eduardo Da Silva Yanes - alu0101104911
 
-Este directorio contiene las plantillas de programación
-para un servidor FTP sencillo como el que se propone implementar
-en el guión de prácticas que se adjunta en el fichero 'guion.pdf'
+This folder contains the code template for a simple FTP as proposed 
+in the assignment that is attached.
 
-Antes de compilar debe tener instalados:
--gcc
--make
+Before compiling make sure that you have the following packages installed
+on your system:
+- gcc
+- g++
+- make
 
-Para compilar ejecute el comando make dentro del directorio.
+To compile the code use the make command.
