@@ -1,0 +1,21 @@
+
+
+
+                     REDES Y SISTEMAS DISTRIBUIDOS
+
+
+==========================================================================
+Plantilla para la programación de un servidor FTP
+==========================================================================
+
+Hecho por Eduardo Da Silva Yanes - alu0101104911
+
+Este directorio contiene las plantillas de programación
+para un servidor FTP sencillo como el que se propone implementar
+en el guión de prácticas que se adjunta en el fichero 'guion.pdf'
+
+Antes de compilar debe tener instalados:
+-gcc
+-make
+
+Para compilar ejecute el comando make dentro del directorio.
